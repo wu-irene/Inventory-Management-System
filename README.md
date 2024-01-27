@@ -26,8 +26,6 @@ Meet our fantastic team:
 - Henry Pham: hpham096
 - Irene Wu: iwu021
 - Jason Diep: jdiep018
-- Chenlong Li: cli242
-
 
 ## Communications 📡
 
@@ -36,15 +34,11 @@ Meet our fantastic team:
 
 ## Technology 📘
 
-Skills Required: 
-
 - Proficiency in C++ programming language
 - Knowledge of UPCitemdb, Gmail API via cURL HTTP request
 - Familiarity with JSON library and file management
 - Understanding of encryption methods
 - Database knowledge acquired from the CS166 course or equivalent
-
-**Note:** While we welcome learning and skill development, we wish to focus on perfecting and utilizing our existing skills for efficient software development. 
 
 Programming Environment: Visual Studio Code
 
@@ -128,11 +122,6 @@ This program requires a one-time setup of cURL. To install cURL on your system, 
 pacman -S mingw-w64-x86_64-curl
 ```
 For additional assistance or inquiries, please feel free to reach out to our technical support team at official.marketme@gmail.com. <br><br><br>
-
-
-
-
-
 
 
 
