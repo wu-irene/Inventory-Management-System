@@ -27,11 +27,6 @@ Meet our fantastic team:
 - Irene Wu: iwu021
 - Jason Diep: jdiep018
 
-## Communications 📡
-
-- Discord: (Our primary channel for daily communications, established on 7/31/2023)
-- Weekly Meetings: Every Friday via Zoom (7 PM - 8 PM)
-
 ## Technology 📘
 
 - Proficiency in C++ programming language
@@ -62,9 +57,9 @@ MarketMe's IMS is a terminal software offering several essential features (Updat
 
 8. **Inventory Filtering and Smart Search Capabilities 🔍**: Offer advanced inventory filtering options that allow sorting based on criteria like price, alphabetical listing, and others. The smart search function uses natural language processing to yield relevant results based on keyword input.
 
-9. **Age-Restricted Sales Compliance Mechanism ⛔**: Integrate a robust system to automatically validate customer age for certain age-sensitive products like alcohol, thereby ensuring compliance with legal requirements and reducing potential liabilities. <br><br><br> <br><br><br>
+9. **Age-Restricted Sales Compliance Mechanism ⛔**: Integrate a robust system to automatically validate customer age for certain age-sensitive products like alcohol, thereby ensuring compliance with legal requirements and reducing potential liabilities. <br><br><br> 
 
-## User Stories Revision 3.5
+## User Stories
 
 1. **Upcitemdb API Integration 🌐** ✅
    - User Story: As a manager, I need to use the upcitemdb API to fetch product information when adding a new product into the system.
